@@ -110,7 +110,7 @@ type: sld4
 </small>
 </font>
 
-Conclusion
+Discussion (Answer to the Question)
 ========================================================
 type: sld5
 

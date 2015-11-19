@@ -99,7 +99,7 @@ kable(predBShotTbl,row.names = FALSE,align = c("l","c","c"))
 </small>
 </font>
 
-Conclusion
+Discussion (Answer to the Question)
 ========================================================
 type: sld5
 
